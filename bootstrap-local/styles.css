@@ -1,0 +1,27 @@
+   *{
+        font-family: "Roboto", sans-serif;
+        font-weight: bold;
+        font-style: italic;
+        box-sizing: border-box;
+        
+    }
+
+    h1{
+        font-size: 3rem;
+        color: white;
+    }
+    
+    .title{
+        text-decoration: none;
+        color: white;
+    }   
+    
+    .selector{
+        margin-top: 30vh;
+    }
+    
+    .txtUs{
+        font-size: 2rem;
+    }
+
+
